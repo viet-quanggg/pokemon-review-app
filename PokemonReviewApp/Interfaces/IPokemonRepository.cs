@@ -1,0 +1,9 @@
+﻿using System;
+namespace PokemonReviewApp.Interfaces
+{
+    public interface IPokemonRepository
+    {
+        ICollection<Pokemon> GetPokemons();
+    }
+}
+

@@ -1,0 +1,38 @@
+﻿<Properties GitUserInfo="UsingMD" StartupConfiguration="{4F08BB65-3863-48DE-8EB0-56595976CED8}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PokemonReviewApp/Controllers/PokemonController.cs">
+    <Files>
+      <File FileName="PokemonReviewApp/Data/DataContext.cs" Line="7" Column="18" />
+      <File FileName="PokemonReviewApp/Models/Category.cs" />
+      <File FileName="PokemonReviewApp/Models/Reviewer.cs" />
+      <File FileName="PokemonReviewApp/Program.cs" Line="19" Column="2" />
+      <File FileName="PokemonReviewApp/Seed.cs" />
+      <File FileName="PokemonReviewApp/Models/Owner.cs" />
+      <File FileName="PokemonReviewApp/Models/Review.cs" />
+      <File FileName="PokemonReviewApp/Interfaces/IPokemonRepository.cs" Line="8" Column="44" />
+      <File FileName="PokemonReviewApp/Repositories/PokemonRepository.cs" Line="12" Column="36" />
+      <File FileName="PokemonReviewApp/Controllers/PokemonController.cs" Line="25" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PokemonReviewApp" expanded="True">
+            <Node name="PokemonReviewApp">
+              <Node name="Controllers" expanded="True">
+                <Node name="PokemonController.cs" selected="True" />
+              </Node>
+              <Node name="Data" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.ItemProperties.PokemonReviewApp PreferredExecutionTarget="/Applications/Microsoft Edge.app" />
+</Properties>
